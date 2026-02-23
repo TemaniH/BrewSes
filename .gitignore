@@ -1,0 +1,6 @@
+# Ignore VS Code settings
+.vscode/*
+
+# Ignore node modules
+node_modules
+dist
